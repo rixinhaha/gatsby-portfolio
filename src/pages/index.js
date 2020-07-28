@@ -140,6 +140,7 @@ class Index extends React.Component {
                           className="project-image"
                           src={shopeeLogo}
                           alt="Shopee logo"
+                          href={'https://shopee.sg/'}
                         />
                       </span>
                       <ul>
@@ -165,6 +166,7 @@ class Index extends React.Component {
                           className="project-image"
                           src={govtechLogo}
                           alt="GovTech logo"
+                          href="https://www.mylegacy.gov.sg/"
                         />
                       </span>
 
@@ -212,6 +214,7 @@ class Index extends React.Component {
                           className="project-image"
                           src={datatureLogo}
                           alt="Datature logo"
+                          href="https://datature.io/"
                         />
                       </span>
 
@@ -279,6 +282,7 @@ class Index extends React.Component {
                     className="project-image"
                     src={dbLogo}
                     alt="Daily Bruin logo"
+                    href="https://github.com/dailybruin/meow"
                   />
                 </span>
                 <h3>Daily Bruin Online</h3>
@@ -322,6 +326,7 @@ class Index extends React.Component {
                     className="project-image"
                     src={capsolLogo}
                     alt="Capsol logo"
+                    href="https://devpost.com/software/capsol"
                   />
                 </span>
                 <h3>Capsol</h3>
@@ -360,6 +365,7 @@ class Index extends React.Component {
                     className="project-image"
                     src={learningExtension}
                     alt="Learning Extension logo"
+                    href="https://devpost.com/software/learning-extension"
                   />
                 </span>
                 <h3>Youtube Chatroom Extension</h3>
