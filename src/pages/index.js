@@ -126,7 +126,7 @@ class Index extends React.Component {
               <h2>Work Experience</h2>
               <p>
                 <a href="https://drive.google.com/file/d/1KRohSgOVP1MS2Ottame7XF-ZtBUMRnDD/view?usp=sharing">
-                  Resume
+                  Click to view resume
                 </a>
               </p>
               <ul className="features">
@@ -137,7 +137,7 @@ class Index extends React.Component {
                     <div className="career-item">
                       <span className="company-image-wrapper">
                         <img
-                          className="project-image"
+                          className="company-image"
                           src={shopeeLogo}
                           alt="Shopee logo"
                           href={'https://shopee.sg/'}
@@ -163,7 +163,7 @@ class Index extends React.Component {
                     <div className="career-item">
                       <span className="company-image-wrapper">
                         <img
-                          className="project-image"
+                          className="company-image"
                           src={govtechLogo}
                           alt="GovTech logo"
                           href="https://www.mylegacy.gov.sg/"
@@ -211,7 +211,7 @@ class Index extends React.Component {
                     <div className="career-item">
                       <span className="company-image-wrapper">
                         <img
-                          className="project-image"
+                          className="company-image"
                           src={datatureLogo}
                           alt="Datature logo"
                           href="https://datature.io/"
@@ -236,19 +236,6 @@ class Index extends React.Component {
                 </div>
               </ul>
             </header>
-
-            <footer className="major">
-              <ul className="actions">
-                <li>
-                  <Link
-                    to="https://drive.google.com/file/d/1KRohSgOVP1MS2Ottame7XF-ZtBUMRnDD/view?usp=sharing"
-                    className="button"
-                  >
-                    Resume
-                  </Link>
-                </li>
-              </ul>
-            </footer>
           </section>
 
           <section id="second" className="main special">
@@ -388,8 +375,6 @@ class Index extends React.Component {
             <header className="major">
               <h2>I am not boring</h2>
               <p>
-                Fan of beautiful landscapes
-                <br />
                 <a href="https://rixinphoto.wordpress.com/">
                   Visit my photo blog
                 </a>
