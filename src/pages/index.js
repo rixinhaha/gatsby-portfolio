@@ -132,32 +132,6 @@ class Index extends React.Component {
               <ul className="features">
                 <div className="features-item-wrapper">
                   <p>Software Engineering Intern</p>
-                  <p className="features-item-date">Sep 2020 - Dec 2020</p>
-                  <li className="features-item">
-                    <div className="career-item">
-                      <span className="company-image-wrapper">
-                        <img
-                          className="company-image"
-                          src={shopeeLogo}
-                          alt="Shopee logo"
-                          href={'https://shopee.sg/'}
-                        />
-                      </span>
-                      <ul>
-                        <li>
-                          Shopee is South East Asia's largest eCommerce platform
-                        </li>
-                        <li>
-                          Will be part of the web-frontend team to maintain and
-                          improve in-house JavaScript libraries and toolsets
-                          (React.js, Flow, TypeScript)
-                        </li>
-                      </ul>
-                    </div>
-                  </li>
-                </div>
-                <div className="features-item-wrapper">
-                  <p>Software Engineering Intern</p>
                   <p className="features-item-date">Jun 2020 - Sep 2020</p>
                   <li className="features-item">
                     <div className="career-item">
